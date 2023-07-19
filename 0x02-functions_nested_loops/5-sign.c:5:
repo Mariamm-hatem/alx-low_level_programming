@@ -1,0 +1,4 @@
+ign.c:11: ERROR: trailing whitespace
+5-sign.c:20: ERROR: code indent should use tabs where possible
+5-sign.c:20: WARNING: please, no space before tabs
+5-sign.c:20: WARNING: please, no spaces at the start of a line
